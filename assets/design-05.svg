@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Design work placeholder 05</title>
+  <rect width="800" height="600" fill="#f2f3ef"/>
+  <rect x="104" y="74" width="592" height="452" rx="18" fill="#fffefd" stroke="#dde1d9"/>
+  <rect x="152" y="132" width="188" height="18" rx="9" fill="#23241f"/>
+  <rect x="152" y="188" width="244" height="286" rx="16" fill="#e6ebe5"/>
+  <rect x="432" y="188" width="214" height="34" rx="17" fill="#7e9187"/>
+  <rect x="432" y="258" width="214" height="12" rx="6" fill="#c7cec5"/>
+  <rect x="432" y="296" width="174" height="12" rx="6" fill="#d7dbd4"/>
+  <rect x="432" y="370" width="214" height="84" rx="14" fill="#eef1ed"/>
+</svg>
